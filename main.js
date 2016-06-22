@@ -7,6 +7,6 @@ function hide (gID){byId(gID).setAttribute("style", "display:none;");};
 function show (gID){byId(gID).setAttribute("style", "display:initial;");};
 
 window.onload = function() {
-  html("main","khe");
-  html("main1","kha");
+  html("main","...");
+  document.location.href='https://github.com/Torzap/';
 };
